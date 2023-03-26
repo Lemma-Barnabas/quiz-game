@@ -1,0 +1,85 @@
+[  {    "question": "What is the correct syntax for a JavaScript function?",    "choices": [      "function = myFunction()",      "function myFunction()",      "myFunction() = function"    ],
+    "answer": "function myFunction()"
+  },
+  {
+    "question": "What keyword is used to define a function in JavaScript?",
+    "choices": [
+      "func",
+      "define",
+      "function"
+    ],
+    "answer": "function"
+  },
+  {
+    "question": "What is the output of the following code: console.log(typeof null);",
+    "choices": [
+      "null",
+      "undefined",
+      "object"
+    ],
+    "answer": "object"
+  },
+  {
+    "question": "What is the purpose of the return statement in a function?",
+    "choices": [
+      "To stop the function from executing",
+      "To return a value from the function",
+      "To print output to the console"
+    ],
+    "answer": "To return a value from the function"
+  },
+  {
+    "question": "What is the scope of a variable declared with the 'let' keyword?",
+    "choices": [
+      "Global",
+      "Local",
+      "Block"
+    ],
+    "answer": "Block"
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "choices": [
+      "To refer to the current function",
+      "To refer to the global object",
+      "To refer to the current object"
+    ],
+    "answer": "To refer to the current object"
+  },
+  {
+    "question": "Which function is used to convert a string to an integer in JavaScript?",
+    "choices": [
+      "parseInt()",
+      "stringToInt()",
+      "toInteger()"
+    ],
+    "answer": "parseInt()"
+  },
+  {
+    "question": "What is the difference between '==' and '===' in JavaScript?",
+    "choices": [
+      "'==' compares values, while '===' compares values and types",
+      "'===' compares values, while '==' compares values and types",
+      "There is no difference"
+    ],
+    "answer": "'==' compares values, while '===' compares values and types"
+  },
+  {
+    "question": "What is the output of the following code: console.log(2 + '2');",
+    "choices": [
+      "4",
+      "22",
+      "Error"
+    ],
+    "answer": "22"
+  },
+  {
+    "question": "What is the output of the following code: console.log(typeof NaN);",
+    "choices": [
+      "number",
+      "string",
+      "NaN is not a type"
+    ],
+    "answer": "number"
+  }
+]

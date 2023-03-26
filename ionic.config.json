@@ -1,0 +1,7 @@
+{
+  "name": "quiz-game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
